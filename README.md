@@ -1,4 +1,4 @@
-# DScover-Main-Project---Team-D
+# DScover-Main-Project---Team D
 # 비 재무 데이터를 활용한 중소기업 폐업 예측 프로젝트 (Project for Prediction of SME Closure Using Non-Financial Data)
 ### 프로젝트 D조 [경제,부동산] : 박우혁 김태건 최유림
 
